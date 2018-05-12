@@ -1,0 +1,45 @@
+_repo: The-Punster-s-Pocket-bookCruikshank_40266
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cruikshank, Robert
+    aliases:
+    - Cruikshank, I. R. (Isaac Robert)
+    - Cruikshank, I. Robert (Isaac Robert)
+    - Cruikshank, Isaac Robert
+    - Cruikshank, R. (Robert)
+    birthdate: 1789
+    deathdate: 1856
+    gutenberg_agent_id: '9022'
+    url: http://www.gutenberg.org/2009/agents/9022
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Westmacott, C. M. (Charles Molloy)
+    aliases:
+    - Westmacott, Charles Molloy
+    - Blackmantle, Bernard
+    - Molloy, Charles
+    birthdate: 1787
+    deathdate: 1868
+    gutenberg_agent_id: '9021'
+    url: http://www.gutenberg.org/2009/agents/9021
+description: ''
+gutenberg_issued: '2012-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Puns and punning'
+- !lcc 'PN'
+- !lcsh 'English wit and humor'
+title: "The Punster's Pocket-book\r\nor, the Art of Punning Enlarged by Bernard Blackmantle,\
+  \ illustrated with numerous original designs by Robert Cruikshank"
+url: http://www.gutenberg.org/ebooks/40266
